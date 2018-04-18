@@ -1,5 +1,5 @@
 # Hello-World
-Bockarie Daniel Marah
+
 My name is Bockarie Daniel Marah
 I work at Sensi Tech Innovaion Hub
 I am the Technician and Network Administrator 
